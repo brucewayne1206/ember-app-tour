@@ -1,12 +1,14 @@
 {
   "name": "ember-app-tour",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1-beta",
+  "description": "This addon is used to tour across an ember app",
   "keywords": [
+    "tour",
+    "bootstrap",
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Hari Hara Sudhan. S",
   "directories": {
     "doc": "doc",
     "test": "tests"
